@@ -1,0 +1,62 @@
+3-bodová BSD licencia
+
+Copyright © 2019, DAG Software
+Všetky práva vyhradené.
+
+Redistribúcie a použitie zdrojových aj binárnych foriem diela, v pôvodnom aj
+upravovanom tvaru, sú povolené za nasledovných podmienok:
+
+* Šírený zdrojový kód musí obsahovať vyššie uvedenú informáciu o autorských
+  právach, tento zoznam podmienok a nižšie uvedené zrieknutie sa zodpovednosti.
+
+* Šírený binárny tvar musí znášať vyššie uvedenú informáciu o autorských 
+  právach, tento zoznam podmienok a nižšie uvedené zrieknutie sa zodpovednosti 
+  vo svojej dokumentácii a/alebo ďalších poskytovaných materiáloch.
+
+* Ani meno vlastníka práv, ani mená prispievateľov nemôžu byť použité pri 
+  podpore alebo právnych aktoch súvisiacich s produktmi pochádzajúcimi z tohto
+  softvéru bez výslovného písomného povolenia.
+
+TENTO SOFTWARE JE POSKYTOVANÝ DRŽITEĽOM LICENCIE A JEHO PRISPIEVATEĽMI "AKO JE"
+A AKÉKOĽVEK VÝSLOVNÉ ALEBO PREDPOKLADANÉ ZÁRUKY VRÁTANE, ALE NIELEN,
+PREDPOKLADANÝCH OBCHODNÝCH ZÁRUK A ZÁRUKY VHODNOSTI PRE AKÝKOĽVEK ÚČEL SÚ
+POPIERANÉ. DRŽITEĽ, ANI PRISPIEVATELIA NEBUDÚ V ŽIADNOM PRÍPADE NIESŤ
+ZODPOVEDNOSŤ ZA AKÉKOĽVEK PRIAME, NEPRIAME, NÁHODNÉ, ZVLÁŠTNE, EXEMPLÁRNE ALEBO
+VYPLÝVAJÚCE ŠKODY (VRÁTANE, ALE NIELEN, ŠKÔD VZNIKNUTÝCH NARUŠENÍM DODÁVOK
+TOVARU ALEBO SLUŽIEB; STRATOU POUŽITEĽNOSTI, ÚDAJOV ALEBO ZISKOV; ALEBO
+PRERUŠENIA OBCHODNEJ ČINNOSTI) AKOKOĽVEK SPÔSOBENÉ NA ZÁKLADE AKEJKOĽVEK TEÓRIE
+O ZODPOVEDNOSTI, ČI UŽ PLYNÚCEJ Z INÉHO ZMLUVNÉHO VZŤAHU, URČITEJ ZODPOVEDNOSTI
+ALEBO PREČINU (VRÁTANE ZANEDBANIA) NA AKOMKOĽVEK SPÔSOBE POUŽITIA TOHTO
+SOFTVÉRU, I V PRÍPADE, ŽE DRŽITEĽ PRÁV BOL UPOZORNENÝ NA MOŽNOSŤ ŠKÔD. 
+
+[Original English version]
+
+BSD 3-Clause License
+
+Copyright (c) 2019, DAG Software
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
