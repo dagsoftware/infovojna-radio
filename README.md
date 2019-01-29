@@ -5,6 +5,9 @@ založený na [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) od Michal 
 
 [![BSD 3-Clause License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
+# Na stiahnutie
+[TU](https://github.com/dagsoftware/infovojna-radio/releases)
+
 # Funkcie
 - automatické spustenie pri štarte OS Windows
 - automatické prehrávanie rádia InfoVojna po spustení programu
@@ -34,6 +37,9 @@ Simple program for playing of radio InfoVojna for OS Windows
 based on [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) by Michal Heczko.
 
 [![BSD 3-Clause License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
+
+# Downloads
+[HERE](https://github.com/dagsoftware/infovojna-radio/releases)
 
 # Features
 - automatic launch on Windows booting
