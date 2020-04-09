@@ -44,7 +44,7 @@ based on [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) by Michal Heczk
 ## Features
 - automatic launch on Windows booting
 - automatic playing of radio InfoVojna on start of program
-- option to add ďalšie internetové rozhlasové stanice
+- option to add another online radio stations
 
 ## TODO
 - replace proprietary BASS audio library by open-source CSCore or NAudio
