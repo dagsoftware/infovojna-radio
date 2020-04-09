@@ -6,7 +6,7 @@ založený na [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) od Michal 
 [![BSD 3-Clause License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
 ## Na stiahnutie
-[TU](https://github.com/dagsoftware/infovojna-radio/releases)
+[![TU stiahnuť](https://img.shields.io/badge/tu-STIAHNU%C5%A4-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAABkUlEQVRIie3VvUojURTA8f9xQkwKF5IqE7BYWwuLLXd8Ag0qEsUFFXyIdatVdkHiC9jZKCwsgx9gwI8qaMDCWnyDSSpT6JJBHM8WMkuyxrkJCalyqpl77jm/ey/MXMEQt/nxeLqe+omwjGL/l/YQ9u8Tte/j7u1TVJ+YCUr7qR/AV7RlOouynvZTAN+i+gyZIGDFOENZNU0xQ2+Pq1Vkuod6FANoAPUfksYXLzc5L6q/AavLvoGKLGZPrg7CgaYd2Z+ujhAOu0RQ1aKdyBw3jjVBsslLJmEvKfzqwjn98/JhUVw3aOrdckX5vFWpV/YEvnRECGf+Q2zuY6nkv029Ex1jEUgk1CF27j/GZt9DjFCbmBFpC4rCBLmoP1ozJgRAKtOOAtjFsvEYq351F9Xwkis+J4OFUfe6HlUX9jde5f9W5LqBbrJWvXHuGJLhzIO1JcXyc7v1bUPw+p1BebuTmjD6+lP1ALyc4/S6uTf1eTJ8lErOKaCs9xppDIWCtTYxcpkMknFgDBjpseEh7NSStY2/PmWWWCKJI64AAAAASUVORK5CYII=)](https://github.com/dagsoftware/infovojna-radio/releases)
 
 ## Funkcie
 - automatické spustenie pri štarte OS Windows
