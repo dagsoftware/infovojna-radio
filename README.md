@@ -5,27 +5,27 @@ založený na [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) od Michal 
 
 [![BSD 3-Clause License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
-# Na stiahnutie
+## Na stiahnutie
 [TU](https://github.com/dagsoftware/infovojna-radio/releases)
 
-# Funkcie
+## Funkcie
 - automatické spustenie pri štarte OS Windows
 - automatické prehrávanie rádia InfoVojna po spustení programu
 - možnosť pridať ďalšie internetové rozhlasové stanice
 
-# Chystané zmeny
+## Chystané zmeny
 - vymeniť proprietárnu zvukovú knižnicu BASS za open-source CSCore alebo NAudio
 
-# Zoznam zmien
+## Zoznam zmien
 - [https://github.com/dagsoftware/infovojna-radio/blob/master/Changelog.txt](https://github.com/dagsoftware/infovojna-radio/blob/master/Changelog.txt)
 
-# Licencia
+## Licencia
 - Infovojna-radio využíva licenciu BSD 3-Clause license. Pozri [Licencia](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
-# Používa
+## Používa
 - [BASS audio library (http://www.un4seen.com/)](http://www.un4seen.com/) (Len na nekomerčné účely)
 
-# Požiadavky
+## Požiadavky
 - OS Windows (XP - 10, testované na Windows 7)
 - .NET Framework 4
 
@@ -38,26 +38,26 @@ based on [TrayRadio 1.5.2](https://github.com/kraugug/TrayRadio) by Michal Heczk
 
 [![BSD 3-Clause License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
-# Downloads
+## Downloads
 [HERE](https://github.com/dagsoftware/infovojna-radio/releases)
 
-# Features
+## Features
 - automatic launch on Windows booting
 - automatic playing of radio InfoVojna on start of program
 - option to add ďalšie internetové rozhlasové stanice
 
-# TODO
+## TODO
 - replace proprietary BASS audio library by open-source CSCore or NAudio
 
-# Changelog
+## Changelog
 - [https://github.com/dagsoftware/infovojna-radio/blob/master/Changelog.txt](https://github.com/dagsoftware/infovojna-radio/blob/master/Changelog.txt)
 
-# License
+## License
 - TrayRadio is under the BSD 3-Clause license. See the [LICENSE](https://github.com/dagsoftware/infovojna-radio/blob/master/Licencia.txt)
 
-# Using
+## Using
 - [BASS audio library (http://www.un4seen.com/)](http://www.un4seen.com/) (Non commercial purpose only)
 
-# Requirements
+## Requirements
 - OS Windows (XP - 10, testen on Windows 7)
 - .NET Framework 4
